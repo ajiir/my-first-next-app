@@ -25,7 +25,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Сайн байна уу? <a href="https://nextjs.org">Next.js!</a>
+          Сайн байна уу манайхан <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>Өөрийн тухай товч танилцуулга</p>
